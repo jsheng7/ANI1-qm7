@@ -1,0 +1,25 @@
+Test set
+1
+2NP
+Gmax: 1
+alpha: 0.010000
+Train MAE: 3.028690    Test MAE: 3.316512
+
+Test set
+1
+2NP
+Gmax: 2
+alpha: 0.001000
+Train MAE: 1.782102    Test MAE: 2.104878
+Test set
+1
+2NP
+Gmax: 0
+alpha: 0.001000
+Train MAE: 1.522703    Test MAE: 1.862715
+Test set
+1
+2NP
+Gmax: 3
+alpha: 0.010000
+Train MAE: 1.688821    Test MAE: 2.042668

@@ -142,3 +142,293 @@ Gmax = 3
 alpha: 0.0001
 Avg Train MAE: 1.666395 Avg Test MAE: 1.866679
 Train Standard Deviation: 0.0264, Test Standard Deviation: 0.1138
+
+
+1
+2NC
+Gmax = 0
+alpha: 1.0000
+Avg Train MAE: 40.917944 Avg Test MAE: 44.788120
+Train Standard Deviation: 0.4947, Test Standard Deviation: 4.2037
+1
+2NC
+Gmax = 0
+alpha: 0.0000
+Avg Train MAE: 1.539124 Avg Test MAE: 6036836.034328
+Train Standard Deviation: 0.0309, Test Standard Deviation: 10456027.4845
+1
+2NC
+Gmax = 0
+alpha: 0.1000
+Avg Train MAE: 4.603071 Avg Test MAE: 5.174384
+Train Standard Deviation: 0.0643, Test Standard Deviation: 0.4301
+1
+2NC
+Gmax = 0
+alpha: 0.0100
+Avg Train MAE: 1.554435 Avg Test MAE: 1.763252
+Train Standard Deviation: 0.0094, Test Standard Deviation: 0.0710
+1
+2NC
+Gmax = 0
+alpha: 0.0010
+Avg Train MAE: 1.501989 Avg Test MAE: 1.708027
+Train Standard Deviation: 0.0093, Test Standard Deviation: 0.0571
+1
+2NC
+Gmax = 0
+alpha: 0.0001
+Avg Train MAE: 1.502620 Avg Test MAE: 1.725854
+Train Standard Deviation: 0.0092, Test Standard Deviation: 0.0481
+1
+2NC
+Gmax = 1
+alpha: 1.0000
+Avg Train MAE: 14.163497 Avg Test MAE: 14.318706
+Train Standard Deviation: 0.1338, Test Standard Deviation: 0.3869
+1
+2NC
+Gmax = 1
+alpha: 0.0000
+Avg Train MAE: 4.460576 Avg Test MAE: 355132457.119345
+Train Standard Deviation: 1.1944, Test Standard Deviation: 615107338.6990
+1
+2NC
+Gmax = 1
+alpha: 0.1000
+Avg Train MAE: 3.428676 Avg Test MAE: 3.475238
+Train Standard Deviation: 0.0039, Test Standard Deviation: 0.0593
+1
+2NC
+Gmax = 1
+alpha: 0.0100
+Avg Train MAE: 3.031767 Avg Test MAE: 3.085268
+Train Standard Deviation: 0.0104, Test Standard Deviation: 0.0454
+1
+2NC
+Gmax = 1
+alpha: 0.0010
+Avg Train MAE: 3.010249 Avg Test MAE: 3.073510
+Train Standard Deviation: 0.0122, Test Standard Deviation: 0.0418
+1
+2NC
+Gmax = 1
+alpha: 0.0001
+Avg Train MAE: 3.007194 Avg Test MAE: 3.073726
+Train Standard Deviation: 0.0122, Test Standard Deviation: 0.0419
+1
+2NC
+Gmax = 2
+alpha: 1.0000
+Avg Train MAE: 23.036871 Avg Test MAE: 23.850786
+Train Standard Deviation: 0.1700, Test Standard Deviation: 0.7186
+1
+2NC
+Gmax = 2
+alpha: 0.0000
+Avg Train MAE: 2.021684 Avg Test MAE: 232620322.321048
+Train Standard Deviation: 0.2563, Test Standard Deviation: 402833619.6577
+1
+2NC
+Gmax = 2
+alpha: 0.1000
+Avg Train MAE: 2.950262 Avg Test MAE: 3.078214
+Train Standard Deviation: 0.0134, Test Standard Deviation: 0.1569
+1
+2NC
+Gmax = 2
+alpha: 0.0100
+Avg Train MAE: 1.785240 Avg Test MAE: 1.881692
+Train Standard Deviation: 0.0135, Test Standard Deviation: 0.0770
+1
+2NC
+Gmax = 2
+alpha: 0.0010
+Avg Train MAE: 1.768771 Avg Test MAE: 1.877055
+Train Standard Deviation: 0.0157, Test Standard Deviation: 0.0678
+1
+2NC
+Gmax = 2
+alpha: 0.0001
+Avg Train MAE: 1.768004 Avg Test MAE: 1.894047
+Train Standard Deviation: 0.0159, Test Standard Deviation: 0.0736
+1
+2NC
+Gmax = 3
+alpha: 1.0000
+Avg Train MAE: 22.237109 Avg Test MAE: 23.420595
+Train Standard Deviation: 0.1392, Test Standard Deviation: 1.1577
+1
+2NC
+Gmax = 3
+alpha: 0.0000
+Avg Train MAE: 1.707649 Avg Test MAE: 24492050.524507
+Train Standard Deviation: 0.0543, Test Standard Deviation: 42327701.3597
+1
+2NC
+Gmax = 3
+alpha: 0.1000
+Avg Train MAE: 2.775883 Avg Test MAE: 2.946940
+Train Standard Deviation: 0.0113, Test Standard Deviation: 0.2025
+1
+2NC
+Gmax = 3
+alpha: 0.0100
+Avg Train MAE: 1.679856 Avg Test MAE: 1.817632
+Train Standard Deviation: 0.0244, Test Standard Deviation: 0.0914
+1
+2NC
+Gmax = 3
+alpha: 0.0010
+Avg Train MAE: 1.668921 Avg Test MAE: 1.827456
+Train Standard Deviation: 0.0258, Test Standard Deviation: 0.0815
+1
+2NC
+Gmax = 3
+alpha: 0.0001
+Avg Train MAE: 1.667360 Avg Test MAE: 1.855690
+Train Standard Deviation: 0.0263, Test Standard Deviation: 0.0938
+1
+2LP
+Gmax = 0
+alpha: 1.0000
+Avg Train MAE: 30.645231 Avg Test MAE: 32.795259
+Train Standard Deviation: 0.1829, Test Standard Deviation: 2.3820
+1
+2LP
+Gmax = 0
+alpha: 0.0000
+Avg Train MAE: 1.517584 Avg Test MAE: 108697999.761052
+Train Standard Deviation: 0.0145, Test Standard Deviation: 188269885.2826
+1
+2LP
+Gmax = 0
+alpha: 0.1000
+Avg Train MAE: 4.291562 Avg Test MAE: 4.731761
+Train Standard Deviation: 0.0451, Test Standard Deviation: 0.3478
+1
+2LP
+Gmax = 0
+alpha: 0.0100
+Avg Train MAE: 1.553298 Avg Test MAE: 1.746201
+Train Standard Deviation: 0.0107, Test Standard Deviation: 0.0627
+1
+2LP
+Gmax = 0
+alpha: 0.0010
+Avg Train MAE: 1.503156 Avg Test MAE: 1.706125
+Train Standard Deviation: 0.0099, Test Standard Deviation: 0.0546
+1
+2LP
+Gmax = 0
+alpha: 0.0001
+Avg Train MAE: 1.502735 Avg Test MAE: 1.711498
+Train Standard Deviation: 0.0100, Test Standard Deviation: 0.0554
+1
+2LP
+Gmax = 1
+alpha: 1.0000
+Avg Train MAE: 13.443794 Avg Test MAE: 13.548935
+Train Standard Deviation: 0.1255, Test Standard Deviation: 0.3639
+1
+2LP
+Gmax = 1
+alpha: 0.0000
+Avg Train MAE: 3.011271 Avg Test MAE: 178859027.991270
+Train Standard Deviation: 0.0273, Test Standard Deviation: 309790085.1041
+1
+2LP
+Gmax = 1
+alpha: 0.1000
+Avg Train MAE: 3.427195 Avg Test MAE: 3.466210
+Train Standard Deviation: 0.0034, Test Standard Deviation: 0.0612
+1
+2LP
+Gmax = 1
+alpha: 0.0100
+Avg Train MAE: 3.035940 Avg Test MAE: 3.081433
+Train Standard Deviation: 0.0108, Test Standard Deviation: 0.0475
+1
+2LP
+Gmax = 1
+alpha: 0.0010
+Avg Train MAE: 3.014055 Avg Test MAE: 3.064887
+Train Standard Deviation: 0.0115, Test Standard Deviation: 0.0420
+1
+2LP
+Gmax = 1
+alpha: 0.0001
+Avg Train MAE: 3.010497 Avg Test MAE: 3.068318
+Train Standard Deviation: 0.0114, Test Standard Deviation: 0.0393
+1
+2LP
+Gmax = 2
+alpha: 1.0000
+Avg Train MAE: 18.453215 Avg Test MAE: 18.909638
+Train Standard Deviation: 0.1566, Test Standard Deviation: 0.6656
+1
+2LP
+Gmax = 2
+alpha: 0.0000
+Avg Train MAE: 1.780392 Avg Test MAE: 140692330.317019
+Train Standard Deviation: 0.0302, Test Standard Deviation: 242625370.1492
+1
+2LP
+Gmax = 2
+alpha: 0.1000
+Avg Train MAE: 2.816771 Avg Test MAE: 2.920832
+Train Standard Deviation: 0.0161, Test Standard Deviation: 0.1577
+1
+2LP
+Gmax = 2
+alpha: 0.0100
+Avg Train MAE: 1.792655 Avg Test MAE: 1.880120
+Train Standard Deviation: 0.0147, Test Standard Deviation: 0.0792
+1
+2LP
+Gmax = 2
+alpha: 0.0010
+Avg Train MAE: 1.774308 Avg Test MAE: 1.872054
+Train Standard Deviation: 0.0169, Test Standard Deviation: 0.0649
+1
+2LP
+Gmax = 2
+alpha: 0.0001
+Avg Train MAE: 1.772127 Avg Test MAE: 1.882197
+Train Standard Deviation: 0.0172, Test Standard Deviation: 0.0660
+1
+2LP
+Gmax = 3
+alpha: 1.0000
+Avg Train MAE: 18.722180 Avg Test MAE: 19.407876
+Train Standard Deviation: 0.1403, Test Standard Deviation: 0.9302
+1
+2LP
+Gmax = 3
+alpha: 0.0000
+Avg Train MAE: 1.675682 Avg Test MAE: 13504671.722562
+Train Standard Deviation: 0.0504, Test Standard Deviation: 22700910.0045
+1
+2LP
+Gmax = 3
+alpha: 0.1000
+Avg Train MAE: 2.685345 Avg Test MAE: 2.820015
+Train Standard Deviation: 0.0150, Test Standard Deviation: 0.1948
+1
+2LP
+Gmax = 3
+alpha: 0.0100
+Avg Train MAE: 1.684390 Avg Test MAE: 1.803168
+Train Standard Deviation: 0.0251, Test Standard Deviation: 0.0953
+1
+2LP
+Gmax = 3
+alpha: 0.0010
+Avg Train MAE: 1.672722 Avg Test MAE: 1.814049
+Train Standard Deviation: 0.0256, Test Standard Deviation: 0.0806
+1
+2LP
+Gmax = 3
+alpha: 0.0001
+Avg Train MAE: 1.670126 Avg Test MAE: 1.830608
+Train Standard Deviation: 0.0257, Test Standard Deviation: 0.0844
